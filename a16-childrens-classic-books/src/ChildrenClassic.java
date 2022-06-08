@@ -4,10 +4,10 @@
  * modified    	20220603
  * date        	20220530
  * @filename   	ChildrenClassic.java
- * @author		Alvin Chan
- * @author		Hammad Hassan
- * @author		Oscar Lam
- * @author		Evan Shizas
+ * @author	Alvin Chan
+ * @author	Hammad Hassan
+ * @author	Oscar Lam
+ * @author	Evan Shizas
  * @version    	1.0.0
  * @see        	A16 - Searching Routines
  */
